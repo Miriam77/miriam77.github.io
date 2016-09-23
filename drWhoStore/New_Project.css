@@ -1,0 +1,50 @@
+body{
+    color:mediumpurple;
+    
+    
+    
+}
+nav{
+    background-color: black;
+    height:25px;
+    width: 100%;
+    font-size: 1.2em;
+}
+li{
+    display: inline;
+    padding:20px;
+
+}
+
+header{
+    font-size: 45px;
+    
+}
+#container{
+    position:static;
+}
+
+.words{
+  margin: 220px 400px 50px 900px;
+  font-size:18;
+  word-wrap: break-word;
+
+  
+}
+.nav2{
+    position:static;
+    margin-top: 0px;
+    margin-bottom: 30px;
+    color:greenyellow;
+    font-size: 1.4em; 
+}
+td{
+    width: 25%;
+
+}
+    
+      
+   
+
+
+
